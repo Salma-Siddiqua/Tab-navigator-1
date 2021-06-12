@@ -1,2 +1,2 @@
-# Tab-navigator-1
-Tab navigator 1
+# tabNavigation
+Tab navigation in the app
